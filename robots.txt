@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://changeamanslife.com/sitemap.xml
+Sitemap: https://www.changeamanslife.com/sitemap.xml
